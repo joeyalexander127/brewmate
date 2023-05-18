@@ -1,0 +1,297 @@
+@import "bootstrap";
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+@import "login";
+
+
+a {
+    text-decoration: none;
+    color:#F36527;
+}
+
+a :hover {
+    text-decoration: none;
+
+    color:#F36527;
+}
+
+section {
+    min-height: 100vh;
+    padding: 10rem  10% 2rem;
+}
+
+p {
+    letter-spacing: 0.1rem;
+    font-size: large;
+}
+
+
+h1,h2,h3,h4 {
+    position: relative;
+    color: var(--text-color);
+    align-items: center;
+    text-align: center;
+}
+
+:root {
+    --bg-color: #FFFFFF;
+    --second-bg-color: #6F605B;
+    --text-color: #6F605B;
+    --main-color: #F36527;
+}
+
+* {
+    font-family: Raleway;
+}
+
+.home-content {
+    text-align: center;
+}
+
+// Used for scroll snapping
+.scroller {
+    height: 100vh;
+    overflow-y: scroll;
+    scroll-snap-type: y mandatory;
+}
+
+.scroller section {
+    scroll-snap-align: start;
+}
+
+.abi_section {
+    background-color: #ffb59c;
+}
+.abv {
+    background-color: #FFFFFF;
+}
+.style_section {
+    background-color: #ffb59c;
+}
+
+.welcome-section {
+    position: relative;
+    align-items: center;
+    justify-content: center;
+}
+
+.welcome-section::before {
+    content: "";
+      background-image: url('https://e0.pxfuel.com/wallpapers/1001/585/desktop-wallpaper-greens-summer-the-sky-the-sun-clouds-landscape-glass-river-mood-shore-beer-stump-bokeh-for-section-%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%B0.jpg');
+      background-size: cover;
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      opacity: 0.25;
+}
+
+.app-works {
+    position: relative;
+    align-items: center;
+    justify-content: center;
+}
+
+.app-works::before {
+    content: "";
+      background-image: url('https://e1.pxfuel.com/desktop-wallpaper/638/894/desktop-wallpaper-beers-glass-alcohol-mug-beer-glass.jpg');
+      background-size: cover;
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      opacity: 0.175;
+}
+
+.about-us {
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.about-us::before {
+    content: "";
+      background-image: url('https://e0.pxfuel.com/wallpapers/396/677/desktop-wallpaper-take-a-beer-fraiches-awesome-marveillous-delight-graphy-take-beer-gold-beaker-glass-amazing-textures-3d-and-cg-white-foam-art-hot-beautiful-guarana-fantasy-icy-heat-freshness-yellow.jpg');
+      background-size: cover;
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      opacity: 0.25;
+}
+
+.contact-us {
+    background-color: #ffb59c;
+}
+
+
+.btn.btn-secondary{
+    margin: 10px;
+}
+
+
+.logo{
+    width: 30%;
+}
+
+.index-content{
+    background-color: #FFFFFF;
+
+}
+
+.index-cards{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-items: center;
+    position: relative;
+}
+
+.index-cards::before {
+    content: "";
+    background-image: url('https://e0.pxfuel.com/wallpapers/2/94/desktop-wallpaper-beer-glass-abstract.jpg');
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    opacity: 0.25;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+
+.index-card{
+    margin: 35px 35px 35px 35px;
+    text-align: center;
+    background-color: #F36527;
+    border-radius: 0.4rem;
+    overflow: hidden;
+    box-shadow: 0 3rem 6rem rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.index-card:hover {
+    transform: translateY(-0.5%);
+    box-shadow: 0 4rem 8rem rgba(0, 0, 0, 0.5);
+}
+.index-image{
+    max-width: 100%;
+    height:300px;
+    object-fit: scale-down;
+}
+
+.show-cards{
+    max-height: 580px;
+    margin: 35px 35px 35px 35px;
+    text-align: center;
+    display: flex;  
+    align-items: center;
+    justify-content: center;
+}
+.show-card{
+    max-height: auto;
+    margin: 100px 35px 35px 35px;
+    text-align: center;
+    background-color: #F36527;
+}
+.go-back{
+    text-align: center;
+    display: flex;  
+    align-items: center;
+    justify-content: center;
+}
+
+
+.create-form{
+    margin: 10vh 10vh 10vw 10vw;
+    background-image: url('https://media.istockphoto.com/id/470941950/photo/three-beers-isolated.jpg?s=612x612&w=0&k=20&c=messgKVlBpjhEYH90Lzpr-1-A6EpwvyuLHHLkpKA9Hw=');
+    background-size: cover;
+}
+
+.create-btn {
+    text-align: center;
+    display: flex;  
+    align-items: center;
+    justify-content: center;
+}
+
+.not-found {
+    background-image: url(https://images.unsplash.com/photo-1485196879722-0512abe23f46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
+    height: 89vh;
+    background-size: cover;
+    color: azure;
+    text-align: center;
+}
+
+
+.index-icons {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.drop-down {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.search {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 30px;
+    cursor: pointer;
+    padding: 10px 20px;
+    background: #ffb59c;
+    border-radius: 30px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.search:hover input{
+    width: 400px;
+}
+
+.search input {
+    width: 0;
+    outline: none;
+    border: none;
+    font-weight: 500;
+    transition: 0.8s;
+    background: transparent;
+}
+
+
+// NEW USER INFO PAGE
+.new-user-info {
+    display: flex;
+    flex-flow:row wrap;
+    align-content: space-around;
+    justify-content: center;
+}
+.new-user-text-block{
+    background-color: #6F605B;
+    color: #ffb59c;
+    border-radius: 15px;
+    display:block;
+    margin:5%
+}
+
+.new-user-text-block p {
+    margin: 5%;
+}
+.new-user-subheading{
+    font-size: x-large;
+    color:#ffb59c;
+    margin: 5%
+}
+

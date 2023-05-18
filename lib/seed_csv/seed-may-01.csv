@@ -1,0 +1,83 @@
+user_id,beer_name,brewery_name,style,abv,ibu,image
+2,(512) Bruin,(512) Brewing Company,Brown Ale,7.6,30,https://i0.wp.com/512brewing.com/wp-content/uploads/2010/12/E2158530-212B-40AF-A5DE-40EE4D6C5D73.png?resize=300%2C300&ssl=1
+2,(512) IPA,(512) Brewing Company,IPA,7,60,https://i0.wp.com/512brewing.com/wp-content/uploads/2023/03/512_IPA_200.webp?w=200&ssl=1
+2,(512) Pecan Porter,(512) Brewing Company,Porter,6.8,30,https://i0.wp.com/512brewing.com/wp-content/uploads/2023/03/512_Porter_200.webp?w=200&ssl=1
+2,(512) Whiskey Barrel Aged Double Pecan Porter,(512) Brewing Company,Porter,8.2,30,https://i0.wp.com/512brewing.com/wp-content/uploads/2018/02/WBADPP_4pack.jpg?resize=246%2C300&ssl=1
+2,Abita Purple Haze,Abita Brewing Company,Wheat Ale,4.75,13,https://abita.com/graphics/brews/840/4purplehaze6pack__slide.png
+2,Adnams Fisherman,Adnams & Co.,Amber Ale,4.5,0,https://assets.untappd.com/photos/2022_11_26/91cc5a62045cae1ed5bda95ca8b75df7_raw.jpg
+2,Alaskan Amber,Alaskan Brewing,Old Ale,5.3,18,https://www.alaskanbeer.com/wp-content/uploads/2015/07/story-behind-the-label-amber.png
+2,Alaskan ESB,Alaskan Brewing,Bitter,5,0,https://assets.untappd.com/site/beer_logos_hd/beer-_555027_hd_db03277ffd3efeea297025380caeef.jpeg
+2,Alaskan IPA,Alaskan Brewing,IPA,6.2,50,https://www.alaskanbeer.com/wp-content/uploads/2017/09/juice-4.png
+2,Alaskan Pale,Alaskan Brewing,Blonde Ale,5.2,0,https://cdn.beeradvocate.com/im/beers/1469.jpg
+2,Alaskan Smoked Porter,Alaskan Brewing,Porter,6.5,45,https://www.alaskanbeer.com/wp-content/uploads/2015/07/2021-Alaskan-Brewing-Smoked-Porter.png
+2,Amber Ale,Bell's Brewery Inc.,Amber Ale,5.8,0,https://bellsbeer.com/wp-content/uploads/2021/12/AmberAle_736px-1.png
+1,American Blackberry Ale,Wild Leap,Ale,6.5,20,https://wildleap.com/wp-content/uploads/AmericanBlackberry-Individual.png
+2,Anchor Summer Beer,Anchor Brewing,Wheat Ale,4.6,0,https://www.anchorbrewing.com/assets/beers/summer_wheat_bio_can.png
+2,Andygator,Abita Brewing Company,Bock,8,0,https://abita.com/graphics/brews/850/abit-0052_andygator_19.2_can__slide.png
+2,Apricot Ale,Allentown Brew Works,Wheat Ale,5.4,10,https://thebrewworks.com/uploads/2014/05/apricot-chalkboard-300x224.jpg
+2,B.O.R.I.S. The Crusher Oatmeal-Imperial Stout,Hoppin Frog Brewery,Stout,9.4,0,https://craftpeak-commerce-images.imgix.net/2022/02/webstoreborislabelimage.png?auto=compress%2Cformat&ixlib=php-1.2.1
+1,Bacon and Eggs,Pizza Port,Stout,8,,https://s3-us-west-1.amazonaws.com/paradeigm-social/IPfNqTgSJeF7wZO5u8Cr_21-0804 PIZZA PORT Bacon-01.png
+2,Bankers Gold,Amherst Brewing Company,Blonde Ale,4.6,0,https://www.americancraftbeer.com/wp-content/uploads/2016/02/20120119090006_BankersGold.png
+2,Barney Flats Oatmeal Stout,Anderson Valley Brewing,Stout,5.7,0,https://avbc.com/wp-content/uploads/2020/03/03.-Barney-Flats-Oatmeal-Stout.webp
+2,Barrel-Aged B.O.R.I.S. Imperial Stout,Hoppin Frog Brewery,Stout,9.4,0,https://craftpeak-commerce-images.imgix.net/2022/03/BA-BORIS-16-OZ-CAN.png?auto=compress%2Cformat&ixlib=php-1.2.1
+2,Beach Bum Blonde Ale,Anheuser-Busch,Blonde Ale,5.4,0,https://cdn.beeradvocate.com/im/beers/30727.jpg
+2,Bell's Cherry Stout,Bell's Brewery Inc.,Fruit Beer,7,0,https://bellsbeer.com/wp-content/uploads/2022/02/Cherry-Stout-Render.png
+2,Best Brown Ale,Bell's Brewery Inc.,Brown Ale,5.8,0,https://bellsbeer.com/wp-content/uploads/2022/02/Best-Brown-render-400x250.png
+2,Big Porch Ale,Bell's Brewery Inc.,Amber Ale,5.8,0,https://bellsbeer.com/wp-content/uploads/2022/02/Big-Porch-Render.png
+2,Bock Beer,Aass Brewery,Bock,5.9,0,https://www.aass.no/media/x1gjylre/aass-bock-0-33l-flaske-5935762.png
+2,Broadside Ale,Adnams & Co.,Bitter,6.3,0,https://products2.imgix.drizly.com/ci-adnams-broadside-90406707d7c4876d.jpeg?auto=format%2Ccompress&ch=Width%2CDPR&fm=jpg&q=20
+1,Brother Thelonius,North Coast,Ale,9.4,27,https://northcoastbrewing.com/wp-content/uploads/2015/07/xBrother-Thelonious-bottle-and-pour-temp.png.pagespeed.ic.2v4vpVUlY-.png
+2,Bud Dry,Anheuser-Busch,Lager,5,0,https://s.yimg.com/ny/api/res/1.2/IPqUFYHP2rARx9kwa3ZdgQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQ2OQ--/https://media.zenfs.com/en/galvanized/22d1db17fb071e58146f96c6b98c743b
+2,Bud Light,Anheuser-Busch,Lager,4.2,0,https://images.albertsons-media.com/is/image/ABS/189010370?$ng-ecom-pdp-desktop$&defaultImage=Not_Available
+2,Bud Light Lime,Anheuser-Busch,Lager,4.2,0,https://products1.imgix.drizly.com/ci-bud-light-lime-f1eb69ac45c32337.jpeg?auto=format%2Ccompress&ch=Width%2CDPR&fm=jpg&q=20
+1,Budweiser,Budweiser,Lager,5,12,https://cdn.builder.io/api/v1/image/assets%2F2c2f396d58f344ecaa467593ed0ec411%2F6b8e15a9a8764641824b812b0eee6e41
+2,Budweiser American Ale,Anheuser-Busch,Amber Ale,5.1,0,https://www.wine-searcher.com/images/labels/40/69/budweiser-american-ale-beer-usa-10634069.jpg
+2,Budweiser Select,Anheuser-Busch,Lager,4.3,0,https://www.ufsdeal.com/media/catalog/product/cache/d9fd7e296718bfd658e7e6b610a33c7c/1/8/1820096666_bbhtmghMgRXuiS68.jpg
+1,Cali Creamsicle,Mother Earth Brewing,Ale,5,18,"https://static.wixstatic.com/media/2adc16_f4bd76875c2a4f60b74624828f5a770c~mv2.png/v1/fill/w_462,h_462,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Cali-Creamsicle-Can-Glass.png"
+1,Cali Peaches & Cream,Mother Earth Brewing,Ale,5,18,"https://static.wixstatic.com/media/2adc16_0d22e88a90d0499f8a674e645f6d1c62~mv2.png/v1/crop/x_1091,y_251,w_1740,h_3455/fill/w_201,h_399,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Cali-Glass.png"
+1,California Honey,Alesmith,Pale Ale,4.8,,https://s3-us-west-1.amazonaws.com/paradeigm-social/aGFyBIw6TuWev4aVNgB7_Single-Can.png
+2,Cascade IPA,Amherst Brewing Company,IPA,5.3,0,https://www.americancraftbeer.com/wp-content/uploads/2016/02/20120119083942_CascadeIPA-200x200.png
+1,Cherry Pie Ale,Wild Leap,Ale,6.5,20,https://wildleap.com/wp-content/uploads/AmericanCherry-Individual.png
+2,Christmas Ale,Abita Brewing Company,Brown Ale,5.5,38,https://products2.imgix.drizly.com/ci-abita-christmas-ale-9008e1f8f320360d.png?auto=format%2Ccompress&ch=Width%2CDPR&fm=jpg&q=20
+2,Consecrator Doppelbock Beer,Bell's Brewery Inc.,Bock,8,0,https://bellsbeer.com/wp-content/uploads/2022/02/Consecrator-Doppelbock-Render-400x250.png
+2,D.O.R.I.S. the Destroyer Double Imperial Stout,Hoppin Frog Brewery,Stout,10.5,0,https://craftpeak-commerce-images.imgix.net/2022/04/NEW_16_OZ_SINGLE_BA-DORIS.png?auto=compress%2Cformat&ixlib=php-1.2.1
+1,Dirty Beaches Tropical Wheat,Scofflaw,Ale,6.3,45,https://scofflawbeer.com/wp-content/themes/scofflawbeer/img/SCOFFLAW-DIRTYBEACHES-1000X1000.png
+2,Duet,Alpine Beer Company,IPA,7,0,https://dydza6t6xitx6.cloudfront.net/ci-alpine-beer-co-duet-ipa-ef8b3f8349f8da80.png
+1,Emergency Drinking Beer Watermelon,Wild Heaven,Ale,4.3,,https://static.spotapps.co/web/wildheavenbeer--com/custom/beers_new_2/emergency_drinking_beer_watermelon_new_2.png
+1,Evil Dead Red,Alesmith,Red Ale,6.66,10,https://alesmith.com/wp-content/uploads/2022/08/Evil-Dead-Red-16oz-Can_web.png
+2,Fegley's Amber Lager,Allentown Brew Works,Amber Ale,5.2,20,https://thebrewworks.com/uploads/amber-lager.jpg
+2,Frosted Frog Christmas Ale,Hoppin Frog Brewery,Winter Ale,8.6,0,https://res.cloudinary.com/tavour/image/upload/ayoacalfztrhfwmanza8
+2,Genuine Pilsner,Aass Brewery,Pilsner,5.5,0,https://www.aass.no/media/z1vjv0bl/aass-pilsner-0-5-boks.png?width=113&rnd=133112585942030000
+2,Gulden Fraug Belgian Ale,Hoppin Frog Brewery,Strong Ale,10.5,0,https://image-cache.beerizer.com/auG005IkwPggfY8rtb6TfUHCc0E=/trim/fit-in/400x400/beer-images.beerizer.com%2Fraw%2F63%2F19%2F190582.jpg
+2,Gull Classic,Aass Brewery,Lager,5.5,0,https://www.aass.no/media/4ubplvsv/aass-classic-boks.png?width=113&rnd=133117012134870000
+2,Hop Explosion,Allentown Brew Works,IPA,7,70,https://thebrewworks.com/uploads/hop-explosion.jpg
+2,Hop Ottin IPA,Anderson Valley Brewing,IPA,7,0,https://avbc.com/wp-content/uploads/2020/03/02.-Hop-Ottin-IPA.webp
+1,Hoplanta,Atlanta Brewing,IPA,6.8,70,https://atlantabrewing.com/wp-content/uploads/2018/08/atlanta-brewing-hoplanta-single.png
+2,Hopslam Ale,Bell's Brewery Inc.,IPA,10,0,https://bellsbeer.com/wp-content/uploads/2022/02/Hopslam-Render.png
+2,Lager Beer,Bell's Brewery Inc.,Lager,5,0,https://bellsbeer.com/wp-content/uploads/2023/01/LFTL_Website_Render.png
+2,Liberty Ale,Anchor Brewing,Pale Ale,6,0,https://s3.amazonaws.com/anchor_cms_production/beers/2/original/liberty_ale_bio_can.png?1470867436
+2,Maredsous 6,Abbaye de Maredsous,Blonde Ale,6,0,https://cdn.shopify.com/s/files/1/2291/9627/products/450x450_1_-Recovered_a18f3fd3-c4e8-4e4c-b6c6-64facdd919fe_640x.jpg?v=1607109192
+2,Nelson,Alpine Beer Company,IPA,7,40,https://alpinebeerco.com/wp-content/uploads/2022/08/BeerCanNav22_Nelson.jpg
+1,No Hype,Bagby Beer,Lager,5,,https://images.squarespace-cdn.com/content/v1/52f07132e4b0aa3b720c623f/1623351633802-XGRH1NB8PL08ZUEYXTCG/No+Hype+TRIPLE+MOCK.png?format=1000w
+2,Oberon Ale,Bell's Brewery Inc.,Wheat Ale,5.8,0,https://bellsbeer.com/wp-content/uploads/2022/02/MicrosoftTeams-image-102.png
+2,Octoberfest Beer,Bell's Brewery Inc.,Oktoberfest,5.5,0,https://bellsbeer.com/wp-content/uploads/2022/02/Octoberfest-Render.png
+2,Outta Kilter Wee-Heavy Scotch Red Ale,Hoppin Frog Brewery,Scotch Ale,8.2,0,https://craftpeak-commerce-images.imgix.net/2022/02/outta-kilter.png?auto=compress%2Cformat&ixlib=php-1.2.1
+2,Pale Ale,Bell's Brewery Inc.,Pale Ale,5.2,0,https://bellsbeer.com/wp-content/uploads/2022/02/Midwestern-Render.png
+2,Pawn Shop Porter,Allentown Brew Works,Porter,5.7,28,https://thebrewworks.com/uploads/Brew-Works-16oz-Can-Label_SBC_Pawn-Shop-Porter_SQUARE-03-1.jpg
+2,Pure Hoppiness,Alpine Beer Company,IPA,8,0,https://beerconnoisseur.com/sites/default/files/styles/beer_page_245w/public/beer/pure-hoppiness.jpg?itok=A8g9nHqt
+1,Rosetta,Ommegang,Ale,5.6,50,https://www.ommegang.com/wp-content/uploads/2019/02/Rosetta_12oz-complex-bottle.png
+1,San Diego State Ale,Alesmith,Ale,4.7,,https://alesmith.com/wp-content/uploads/2022/07/San-Diego-State-Ale-12oz-Can_web.png
+1,Sculpin,Ballast Point,IPA,7,70,https://ballastpoint.com/wp-content/uploads/2018/03/12oz_Single_Sculpin-Front.png
+2,Silk Porter,Hoppin Frog Brewery,Porter,6.2,0,https://beerapprentice.files.wordpress.com/2012/05/dscn28022.jpg
+2,Smashing Berry Ale,Hoppin Frog Brewery,Fruit Beer,4.3,0,https://craftpeak-commerce-images.imgix.net/2022/03/4-PAK_8-OZ-CAN_SMASHING-BERRY-BLONDE.png?auto=compress%2Cformat&ixlib=php-1.2.1
+2,Special Double Cream Stout,Bell's Brewery Inc.,Stout,6.1,0,https://bellsbeer.com/wp-content/uploads/2022/02/DCS-Render.png
+1,Speedway Stout,Alesmith,Stout,12,70,https://alesmith.com/wp-content/uploads/2020/07/speedwaystout.png
+2,Summer Solstice Cerveza Crema,Anderson Valley Brewing,Cream Ale,5.6,0,https://avbc.com/wp-content/uploads/2020/03/01.-Summer-Solstice.webp
+1,Swingin’ Friar Ale,Ballast Point,Pale Ale,5.5,40,https://ballastpoint.com/wp-content/uploads/2019/05/12oz_Can_Single-SFA-Front.png
+1,Thai Wheat,Second Self,Amber Ale,5.1,18,https://static.spotapps.co/web/secondselfbeer--com/custom/beers/thai_wheat.png
+2,Third Coast Beer,Bell's Brewery Inc.,Blonde Ale,4.8,0,https://bellsbeer.com/wp-content/uploads/2022/02/MicrosoftTeams-image-106.png
+2,Third Coast Old Ale,Bell's Brewery Inc.,Old Ale,10.2,0,https://bellsbeer.com/wp-content/uploads/2022/01/History_ThirdCoastOldAle.png
+2,Two Hearted Ale,Bell's Brewery Inc.,IPA,7,0,https://bellsbeer.com/wp-content/uploads/2021/12/Two-Hearted-IPA.png
+2,Wild Frog Wheat,Hoppin Frog Brewery,Hefeweizen,6,0,https://cdn.beeradvocate.com/im/beers/36862.jpg
+2,Workingman's Wheat,Amherst Brewing Company,Hefeweizen,4.9,0,https://assets.untappd.com/site/beer_logos_hd/beer-4554_abe5f_hd.jpeg
+1,Yeastie Boys,Necromancer Brewing,Lager,7,,https://necromancer.beer/wp-content/uploads/2022/06/yeastie_boysweb-1.png
